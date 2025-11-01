@@ -1,7 +1,7 @@
 # ANISH-INTRODUCTION
-# HI THERE, I'M ANISH GUPTA! 
+# HI THERE, I'M ANISH ! 
 
-**MERN FULL STACK DEVELOPER | AI & ML ENTHUSIAST | GENERATIVE AI EXPERT**
+**MERN FULL STACK DEVELOPER | AI & ML ENTHUSIAS | GENERATIVE AI EXPERT**
 
 From deep dives into CPU pipelines to crafting dynamic React components, my path has merged hardware insight with full-stack and Python development to shape elegant, high-performance web experiences.
 
@@ -13,7 +13,7 @@ From deep dives into CPU pipelines to crafting dynamic React components, my path
 - 💡 **TOP SKILLS :**  
   - MERN stack (MongoDB, Express, React, Node.js)  
   - Python  
-  - Machine Learning, Artificial Intelligence  
+  - Artificial Intelligence  
   - JavaScript  
   - Computer Networking
   - Leadership
@@ -22,7 +22,7 @@ From deep dives into CPU pipelines to crafting dynamic React components, my path
   - UI-UX Designing
     
 - 🏆 **HACKATHON EXPERIENCE:**  
-  - Attended **10+ HACKATHONS** in my tech journey, collaborating, innovating, and problem-solving with amazing teams.
+  - Attended **05+ HACKATHONS** in my tech journey, collaborating, innovating, and problem-solving with amazing teams.
     
 - 🌟 **FEATURED PROJECTS:**  
   - [LANDING PAGE](#)  
@@ -80,4 +80,4 @@ From deep dives into CPU pipelines to crafting dynamic React components, my path
 
 ---
 
-**AUTHOR:** ANISH GUPTA
+**AUTHOR:** ANISH 
