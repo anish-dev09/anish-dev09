@@ -63,7 +63,7 @@ My work combines **MERN engineering**, **Generative AI integration**, and **prod
 
 ## 💼 PREMIUM PROJECTS
 
-| Project | Focus | Stack | Link |
+| Project | Focus | Stack |
 |---|---|---|---|
 | **AI SaaS Toolkit** | AI automation workflows for business use-cases | MERN + OpenAI + APIs|
 | **ICS Network Intrusion system** | AI-assisted intrusion detetected system| React + python + LLM APIs|
