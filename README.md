@@ -65,9 +65,9 @@ My work combines **MERN engineering**, **Generative AI integration**, and **prod
 
 | Project | Focus | Stack | Link |
 |---|---|---|---|
-| **AI SaaS Toolkit** | AI automation workflows for business use-cases | MERN + OpenAI + APIs | [View Project](#) |
-| **Landing Page Generator** | AI-assisted high-conversion page generation | React + Node.js + LLM APIs | [View Project](#) |
-| **Intelligent Workflow System** | AI-based system for task orchestration and insights | MERN + Python + LangChain | [View Project](#) |
+| **AI SaaS Toolkit** | AI automation workflows for business use-cases | MERN + OpenAI + APIs|
+| **ICS Network Intrusion system** | AI-assisted intrusion detetected system| React + python + LLM APIs|
+| **Intelligent Workflow System** | AI-based system for task orchestration and insights | MERN + Python + LangChain|
 
 ---
 
@@ -83,7 +83,7 @@ My work combines **MERN engineering**, **Generative AI integration**, and **prod
 
 ## 🏆 HIGHLIGHTS & ACHIVEMENTS 
 
-- Participated in **5+ hackathons** with collaborative product-building experience  
+- Participated in **8+ hackathons** with collaborative product-building experience  
 - Consistently exploring **AI/ML systems** and Generative AI product applications  
 - Building **real-world, scalable systems** with strong execution and product depth
 
