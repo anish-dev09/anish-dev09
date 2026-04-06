@@ -76,7 +76,7 @@ My work combines **MERN engineering**, **Generative AI integration**, and **prod
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anish-gupta-696245324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/anishgupta2848?s=21)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00F5D4)](https://anish-portfolio09.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/_anish.03?igsh=MThzcjQxc2FjM3dlbg==)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/_anish.24/?hl=en)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anishgaming2848@gmail.com)
 
 ---
