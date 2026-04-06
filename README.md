@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ANISH%20GUPTA&fontAlign=50&fontAlignY=40&color=0:0D1117,50:111827,100:00F5D4&fontColor=E6EDF3&animation=fadeIn&desc=AI%20PRODUCT%20ENGINEER&descAlignY=62&descAlign=50" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ANISH%20KUMAR&fontAlign=50&fontAlignY=40&color=0:0D1117,50:111827,100:00F5D4&fontColor=E6EDF3&animation=fadeIn&desc=AI%20PRODUCT%20ENGINEER&descAlignY=62&descAlign=50" alt="header banner" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 ABOUT ME
 
 I am an **AI Product Engineer** focused on building high-impact digital products where intelligent systems meet scalable software architecture.  
 My work combines **MERN engineering**, **Generative AI integration**, and **product-first thinking** to solve real user problems with measurable outcomes.
@@ -24,7 +24,7 @@ My work combines **MERN engineering**, **Generative AI integration**, and **prod
 
 ---
 
-## 🎯 Core Expertise
+## 🎯 CORE EXPERTISE
 
 - **AI Product Engineering**  
 - **Full-Stack MERN Development**  
@@ -33,7 +33,7 @@ My work combines **MERN engineering**, **Generative AI integration**, and **prod
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -61,7 +61,7 @@ My work combines **MERN engineering**, **Generative AI integration**, and **prod
 
 ---
 
-## 💼 Premium Projects
+## 💼 PREMIUM PROJECTS
 
 | Project | Focus | Stack | Link |
 |---|---|---|---|
@@ -71,7 +71,7 @@ My work combines **MERN engineering**, **Generative AI integration**, and **prod
 
 ---
 
-## 🌐 Connect
+## 🌐 CONNECT WITH ME
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anish-gupta-696245324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/anishgupta2848?s=21)
@@ -81,7 +81,7 @@ My work combines **MERN engineering**, **Generative AI integration**, and **prod
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🏆 HIGHLIGHTS & ACHIVEMENTS 
 
 - Participated in **5+ hackathons** with collaborative product-building experience  
 - Consistently exploring **AI/ML systems** and Generative AI product applications  
@@ -89,7 +89,7 @@ My work combines **MERN engineering**, **Generative AI integration**, and **prod
 
 ---
 
-## 🎯 Hobbies
+## 🎯 HOBBIES
 
 - Building side products  
 - Content strategy and digital branding  
