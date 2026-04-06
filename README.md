@@ -59,15 +59,6 @@ My work combines **MERN engineering**, **Generative AI integration**, and **prod
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
----
-
-## 💼 PREMIUM PROJECTS
-
-| Project | Focus | Stack |
-|---|---|---|---|
-| **AI SaaS Toolkit** | AI automation workflows for business use-cases | MERN + OpenAI + APIs|
-| **ICS Network Intrusion system** | AI-assisted intrusion detetected system| React + python + LLM APIs|
-| **Intelligent Workflow System** | AI-based system for task orchestration and insights | MERN + Python + LangChain|
 
 ---
 
