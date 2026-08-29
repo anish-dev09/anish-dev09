@@ -1,94 +1,162 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ANISH%20KUMAR&fontAlign=50&fontAlignY=40&color=0:0D1117,50:111827,100:00F5D4&fontColor=E6EDF3&animation=fadeIn&desc=AI%20PRODUCT%20ENGINEER&descAlignY=62&descAlign=50" alt="header banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ANISH%20KUMAR&fontAlign=50&fontAlignY=40&color=0:0D1117,50:111827,100:00F5D4&fontColor=E6EDF3&animation=fadeIn&desc=SOFTWARE%20ENGINEER&descAlignY=62&descAlign=50"/>
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=AI+PRODUCT+ENGINEER;AI-DRIVEN+MERN+DEVELOPER;SOCIAL+MEDIA+STRATEGIST" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=BUILDING+INTELLIGENT+SOFTWARE+WITH+AI+%26+CLOUD" />
+
 </div>
 
 <p align="center">
-  <strong>Designing and shipping AI-powered products that scale from idea to real-world impact.</strong>
+
+<b>
+TURNING IDEAS INTO INTELLIGENT SOFTWARE THAT CREATES REAL-WORLD IMPACT
+</b>
+
 </p>
 
 ---
 
-## 🚀 ABOUT ME
+#  ABOUT ME
 
-I am an **AI Product Engineer** focused on building high-impact digital products where intelligent systems meet scalable software architecture.  
-My work combines **MERN engineering**, **Generative AI integration**, and **product-first thinking** to solve real user problems with measurable outcomes.
+HI, I'M **ANISH**.
 
-- Building AI-powered, production-ready web products  
-- Integrating LLM workflows into full-stack applications  
-- Translating product vision into scalable engineering systems  
-- Applying growth strategy through data-driven social media systems
+I'm a **Software Engineer** passionate about building intelligent software that combines **Artificial Intelligence, Cloud Computing, and Full-Stack Engineering**.
 
----
+I enjoy taking products from **idea → architecture → development → deployment**, transforming real-world problems into scalable digital solutions.
 
-## 🎯 CORE EXPERTISE
+Currently, I'm focused on building AI-powered applications using **Python, MERN Stack, Generative AI, and Google Cloud**, while continuously exploring modern software engineering practices and cloud-native development.
 
-- **AI Product Engineering**  
-- **Full-Stack MERN Development**  
-- **Generative AI & Automation Systems**  
-- **Social Media Growth Systems**
+I believe great software isn't defined by the technologies it uses—
+
+it's defined by the problems it solves.
 
 ---
 
-## 🛠️ TECH STACK
+#  WHAT I'M CURRENTLY BUILDING
 
-### Frontend
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+- 🤖 AI-powered Web Applications
+- ☁️ Cloud-native Software
+- 🧠 Generative AI & AI Agents
+- ⚙️ Intelligent Automation Systems
+- 🌐 Full-Stack MERN Applications
+- 📦 Scalable Software Products
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![REST API](https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F5D4)
+---
 
-### AI / ML
+#  TECH STACK
+
+## Languages
+
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00F5D4)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 
 ---
 
-## 🌐 CONNECT WITH ME
+## Frontend
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anish-gupta-696245324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/anishgupta2848?s=21)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00F5D4)](https://anish-portfolio09.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/_anish.24/?hl=en)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anishgaming2848@gmail.com)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3)
 
 ---
 
-## 🏆 HIGHLIGHTS & ACHIVEMENTS 
+## Backend
 
-- Participated in **8+ hackathons** with collaborative product-building experience  
-- Consistently exploring **AI/ML systems** and Generative AI product applications  
-- Building **real-world, scalable systems** with strong execution and product depth
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
+![REST API](https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge)
 
 ---
 
-## 🎯 HOBBIES
+## AI
 
-- Building side products  
-- Content strategy and digital branding  
-- Photography and visual storytelling  
-- Reading about technology, AI, and innovation
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge)
+
+---
+
+## Cloud & DevOps
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud)
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
+
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman)
+
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel)
+
+---
+
+#  HIGHLIGHTS
+
+🏆 Student of the Year 2026 — GDRCST, RIU
+
+☁️ Google Cloud Arcade Program Lead 2026
+
+🥈 4× National-Level Hackathon Finalist
+
+🤖 AI Trainee — Pivot by Verbly.AI
+
+🎤 Host — Google AI Labs, Raipur
+
+👥 GDG Raipur Community Member
+
+---
+
+#  CURRENTLY EXPLORING
+
+- Large Language Models (LLMs)
+
+- Retrieval-Augmented Generation (RAG)
+
+- AI Agents
+
+- Cloud-native Architectures
+
+- Scalable Backend Systems
+
+- Product Engineering
+
+---
+
+#  ENGINEERING PHILOSOPHY
+
+> **Build with curiosity.**
+>
+> **Engineer with purpose.**
+>
+> **Ship what matters.**
+
+---
+
+#  LET'S CONNECT
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anish-kumar24/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge)](https://anishofficial.in/)
+
+[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x)](https://x.com/ANISH_2422)
+
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail)](mailto:anish.business21@gmail.com)
 
 ---
 
 <div align="center">
-  <strong>Building AI-powered products. Scaling ideas. Creating impact.</strong>
+
 </div>
